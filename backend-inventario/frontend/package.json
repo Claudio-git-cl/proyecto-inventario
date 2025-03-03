@@ -1,0 +1,14 @@
+{
+  "name": "nombre-del-proyecto-frontend",
+  "version": "1.0.0",
+  "description": "Descripción del proyecto frontend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
